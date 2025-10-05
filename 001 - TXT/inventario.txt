@@ -1,0 +1,6 @@
+FERRAMENTA Adaga|w|1|2|10
+TESOURO Tesouro|100
+FERRAMENTA Espada Pulsante|w|1|3|18
+MAGIA Raio Divino|200
+TESOURO Tesouro|1000
+TESOURO Tesouro|2500
